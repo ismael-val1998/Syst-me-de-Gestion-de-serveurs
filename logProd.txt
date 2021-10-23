@@ -1,0 +1,7 @@
+[05-06-2021 15:51:44] Commande 1 effectuée.		      <
+[05-06-2021 15:51:55] Commande 2 effectuée.		      <
+[05-06-2021 15:52:00] Commande 3 effectuée.		      <
+[05-06-2021 15:52:04] Commande 4 effectuée.		      <
+[05-06-2021 15:53:54] Commande 1 effectuée.		      <
+[05-06-2021 20:23:01] Commande 1 effectuée.		      <
+
